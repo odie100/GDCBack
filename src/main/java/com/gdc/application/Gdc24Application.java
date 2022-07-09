@@ -9,5 +9,4 @@ public class Gdc24Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Gdc24Application.class, args);
 	}
-
 }
